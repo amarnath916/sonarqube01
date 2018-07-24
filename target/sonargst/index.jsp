@@ -11,7 +11,7 @@
       <img src="http://www.learntek.org/wp-content/uploads/2017/08/jenkins_image.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
       <h1 class="text-center">Hello-world</h1>
-      <h2 class="text-center">welcome to Maven Build package Successfully hosted the application</h2>
+      <h2 class="text-center">welcome to Maven Build! Script automated thro jenkins.. Build deployed in tomcat server with no issues</h2>
   </div>
 </body>
 </html>

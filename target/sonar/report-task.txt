@@ -2,5 +2,5 @@ projectKey=devops:sonargst
 serverUrl=http://localhost:9000
 serverVersion=7.2.1.14109
 dashboardUrl=http://localhost:9000/dashboard?id=devops%3Asonargst
-ceTaskId=AWTN_kN94FfpMMBjW4jU
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AWTN_kN94FfpMMBjW4jU
+ceTaskId=AWTOK0jZ4FfpMMBjW4jX
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWTOK0jZ4FfpMMBjW4jX

@@ -54,6 +54,8 @@
       <scope>runtime</scope>
     </dependency>
   </dependencies>
+  
+  
 
   <build>
     <finalName>sonargst</finalName>
@@ -97,5 +99,6 @@
       </plugin>
     </plugins>
   </build>
+
 
 </project>
